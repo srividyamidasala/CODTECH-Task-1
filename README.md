@@ -10,7 +10,7 @@ Duration:OCTOBER to NOVEMBER 2024
 
 Mentor:Santhosh kumar
 
-Overview of the Exploratory Data Analysis (EDA) Project:
+Overview of the  Project:
 
 This project focuses on Exploratory Data Analysis (EDA) of the Iris dataset, a popular dataset in data science for classification tasks. EDA is a critical first step when working with any dataset. It helps to understand the data, detect patterns, relationships, and outliers, and decide on further steps such as feature engineering or modeling.
 
