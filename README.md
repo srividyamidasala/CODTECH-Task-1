@@ -21,11 +21,17 @@ The primary goal is to explore the statistical properties and relationships with
 Key aspects of EDA include:
 
 Data Cleaning: Identify missing values and handle outliers.
+
 Data Understanding: Analyze statistical characteristics such as mean, variance, and correlations.
+
 Data Visualization: Use visual tools (histograms, scatter plots, heatmaps) to uncover patterns and distributions.
+
 Outlier Detection: Identify unusual data points that may affect model performance.
+
 Feature Relationships: Analyze correlations to determine feature importance for predictive tasks.
+
 Dataset Overview: Iris Dataset
+
 Features:
 
 Sepal Length (cm)
@@ -37,6 +43,7 @@ The dataset contains 150 samples, with 50 samples for each species.
 The Iris dataset is widely used in machine learning for classification tasks, making it ideal for demonstrating EDA concepts.
 
 Key Tasks Performed in This Project
+
 Data Loading & Basic Exploration:
 
 Load the dataset and display the first few rows.
@@ -45,6 +52,7 @@ Univariate Analysis:
 
 Histograms: To understand the distribution of individual features.
 Boxplots: To detect potential outliers and understand the spread of data.
+
 Bivariate Analysis:
 
 Scatter Plots: To explore relationships between two features (e.g., petal length vs. petal width) and visualize species separation.
@@ -56,6 +64,7 @@ Outlier Detection:
 
 Z-Score Method: Identifies data points that are far from the mean (potential outliers).
 Insights Gained from EDA
+
 Feature Distribution:
 
 Sepal and petal dimensions exhibit distinct distributions.
@@ -67,6 +76,7 @@ Sepal width shows weaker correlations with other features, suggesting it may not
 Outlier Detection:
 
 Outliers were detected in petal width, which might require further investigation or cleaning.
+
 Species Clustering:
 
 Scatter plots and pairplots show that petal features provide better separation between species compared to sepal features.
