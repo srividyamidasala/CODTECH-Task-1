@@ -1,8 +1,13 @@
 Name:srividya midasala
+
 Company: CODTECH IT SOLUTIONS
+
 Domain:Data Science
+
 Intern Id:CTO8DS8884
+
 Duration:OCTOBER to NOVEMBER 2024
+
 Mentor:Santhosh kumar
 
 Overview of the Exploratory Data Analysis (EDA) Project
